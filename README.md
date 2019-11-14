@@ -2,7 +2,7 @@
 
 Logs your production bundle sizes in a CI friendly way.
 
-![Screenshot showing the output of this plugin](gridsome-plugin-webpack-size.png)
+![Screenshot showing the output of this plugin](https://github.com/thetre97/gridsome-plugin-webpack-size/blob/master/gridsome-plugin-webpack-size.png)
 
 ## Installation
 
