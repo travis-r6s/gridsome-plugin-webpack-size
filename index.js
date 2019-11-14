@@ -5,7 +5,7 @@ module.exports = (api, options) => {
       config.plugin('size').use(SizePlugin).init((Plugin) => new Plugin(options))
     }
 
-    if ( process.env.NODE_ENV === 'development' && options.development ) {
+    if (process.env.NODE_ENV === 'development' && options.development) {
       config.plugin('size').use(SizePlugin).init((Plugin) => new Plugin(options))
     }
   })
