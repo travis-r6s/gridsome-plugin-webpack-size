@@ -1,0 +1,12 @@
+{
+  "name": "gridsome-plugin-webpack-size",
+  "version": "1.0.0",
+  "description": "Logs your production bundle sizes in a CI friendly way",
+  "main": "index.js",
+  "repository": "https://github.com/thetre97/gridsome-plugin-webpack-size.git",
+  "author": "Travis Reynolds",
+  "license": "MIT",
+  "dependencies": {
+    "size-plugin": "^2.0.1"
+  }
+}
