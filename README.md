@@ -18,3 +18,17 @@ module.exports = {
   ]
 }
 ```
+
+## Configuration
+
+You can specify whether webpack-size should run in development mode too, and if it should create a size report JSON file.
+
+```js
+{
+  use: 'gridsome-plugin-webpack-size',
+  options: {
+    development: true,
+    writeFile: true
+  }
+}
+```
