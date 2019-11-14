@@ -6,6 +6,12 @@
   "repository": "https://github.com/thetre97/gridsome-plugin-webpack-size.git",
   "author": "Travis Reynolds",
   "license": "MIT",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "webpack",
+    "webpack size"
+  ],
   "dependencies": {
     "size-plugin": "^2.0.1"
   }
